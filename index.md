@@ -28,10 +28,10 @@ Hi! My name is [krystal torres].
 <a href="https://open-coding-society.github.io/student">
     <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white" alt="GitHub Pages">
 </a>
-<a href="https://kasm.opencodingsociety.com/" class="button small" style="background-color: #6b4bd3ff">
+<a href="https://kasm.opencodingsociety.com/" class="button small" style="background-color: #35159dff">
     KASM
 </a>
-<a href="https://vscode.dev/" class="button small" style="background-color: #d38a4bff">
+<a href="https://vscode.dev/" class="button small" style="background-color: #e7d051ff">
     <span style="color: #FFFFFF">VSCODE</span>
 </a>
 
