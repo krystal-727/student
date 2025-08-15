@@ -32,7 +32,7 @@ Hi! My name is [krystal torres].
     KASM
 </a>
 <a href="https://vscode.dev/" class="button small" style="background-color: #e7d051ff">
-    <span style="color: #f62e2eff">VSCODE</span>
+    <span style="color: #f73333ff">VSCODE</span>
 </a>
 
 <br>
