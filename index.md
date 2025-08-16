@@ -43,7 +43,7 @@ Hi! My name is [krystal torres].
     Snake Game
 </a>
 <a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #2A7DB1">
-    <span style="color: #48359dff">Turtle</span>
+    <span style="color: #7058ddff">Turtle</span>
 </a>
 
 <br>
