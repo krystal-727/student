@@ -53,4 +53,4 @@ Hi! My name is [krystal torres].
 
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
 
-<p style="color: #c0dbebff;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #eaeff3ff; text-decoration: underline;">Socials</a></p>
+<p style="color: #ffe100ff;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #eaeff3ff; text-decoration: underline;">Socials</a></p>
