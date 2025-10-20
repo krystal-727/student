@@ -2,8 +2,8 @@
 layout: base
 title: Background with Object 
 description: Use JavaScript to have an in motion background.
-sprite: images/platformer/sprites/cerberus.png
-background: images/platformer/backgrounds/alien_planet2.jpg
+sprite: images/platformer/sprites/grave.png
+background: images/platformer/backgrounds/HauntedMansion.png
 permalink: /background
 ---
 
